@@ -1,4 +1,10 @@
-### Hi there 👋
+### Flutter Developer
+
+In a serious love with Flutter since 1.2.1, getting fascinated with this framework every day!
+
+Currently working with this technology and helping communities worldwide. 
+
+![](https://github-readme-stats.vercel.app/api?username=GabrielCR99&&show_icons=true&theme=dark)
 
 <!--
 **GabrielCR99/GabrielCR99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
