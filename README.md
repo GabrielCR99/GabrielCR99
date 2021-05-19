@@ -6,6 +6,9 @@ Currently working with this technology and helping communities worldwide.
 
 ![](https://github-readme-stats.vercel.app/api?username=GabrielCR99&&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCR99&hide=java&layout=compact)](https://github.com/GabrielCR99/github-readme-stats)
+
+
 <!--
 **GabrielCR99/GabrielCR99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
