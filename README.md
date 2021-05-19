@@ -6,7 +6,7 @@ Currently working with this technology and helping communities worldwide.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=GabrielCR99&&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCR99&hide=java&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCR99&hide=java&layout=compact&theme=dark)
 
 
 <!--
