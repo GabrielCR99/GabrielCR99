@@ -4,9 +4,9 @@ In a serious love with Flutter since 1.2.1, getting fascinated with this framewo
 
 Currently working with this technology and helping communities worldwide. 
 
-![](https://github-readme-stats.vercel.app/api?username=GabrielCR99&&show_icons=true&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=GabrielCR99&&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCR99&hide=java&layout=compact)](https://github.com/GabrielCR99/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCR99&hide=java&layout=compact)
 
 
 <!--
