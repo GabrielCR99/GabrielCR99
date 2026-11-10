@@ -1,25 +1,36 @@
-### Flutter Developer
+## Hi, I'm Gabriel 👋
 
-In a serious love with Flutter since 1.2.1, getting fascinated with this framework every day!
+### Mobile Developer @ CI&T
 
-Currently working with this technology and helping communities worldwide. 
+I build native Android and iOS apps with **Kotlin**, **Jetpack Compose**, **Swift** and **SwiftUI**.
 
-![Stats](https://github-readme-stats.vercel.app/api?username=GabrielCR99&&show_icons=true&theme=dark)
+I have 5+ years of mobile experience. I started with **Flutter**, shipping cross-platform apps to production, and now I focus on native development to get the most performance and the best experience out of each platform.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCR99&hide=java&layout=compact&theme=dark)
+<p>
+  <a href="https://www.linkedin.com/in/gabriel-roveri/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:gabriel.roveri7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
+#### 🛠️ Day to day
 
-<!--
-**GabrielCR99/GabrielCR99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Clean, scalable architecture (MVVM, Clean Architecture, modularization)
+- Automated testing and code quality
+- API integration, CI/CD and app store publishing best practices
 
-Here are some ideas to get you started:
+#### 🎓 Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Systems Analysis and Development, FATEC Americana
+- IT Technician, Colégio Técnico Bento Quirino
+
+#### 🤝 Community
+
+I'm part of **Flutter Campinas**, sharing knowledge at meetups.
+
+#### 💻 Stack
+
+<img alt="Tech stack" src="https://skillicons.dev/icons?i=kotlin,swift,flutter,dart,firebase" />
+
+<p>
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=GabrielCR99&show_icons=true&theme=dark" height="165" />
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCR99&hide=java&layout=compact&theme=dark" height="165" />
+</p>
