@@ -9,6 +9,8 @@ I have 5+ years of mobile experience. I started with **Flutter**, shipping cross
 <p>
   <a href="https://www.linkedin.com/in/gabriel-roveri/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:gabriel.roveri7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/roveri.gabriel/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/13189916/gabriel-roveri"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
 </p>
 
 #### 🛠️ Day to day
@@ -31,6 +33,6 @@ I'm part of **Flutter Campinas**, sharing knowledge at meetups.
 <img alt="Tech stack" src="https://skillicons.dev/icons?i=kotlin,swift,flutter,dart,firebase" />
 
 <p>
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=GabrielCR99&show_icons=true&theme=dark" height="165" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCR99&hide=java&layout=compact&theme=dark" height="165" />
+  <img alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielCR99&theme=github_dark" height="180" />
+  <img alt="Top languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielCR99&theme=github_dark" height="180" />
 </p>
